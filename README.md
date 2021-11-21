@@ -2,6 +2,8 @@
 
 > Three relays controlled with WiFi MQTT from Home Assistant, using a WeMos D1 mini board.
 
+Project documentation available at: https://blog.cavelab.dev/2021/11/wifi-relays-for-ventilation/
+
 ![Relay box for Komfovent balanced ventilation](https://i.logistics.cavelab.net/large/2652.jpeg)
 
 ## Author
